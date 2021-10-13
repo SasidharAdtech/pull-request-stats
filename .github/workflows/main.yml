@@ -9,7 +9,7 @@ jobs:
       - name: Run pull request stats
         uses: Demo-Sample/.github/workflows/main.yml@main
         with:
-          token: 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
+          token: ${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}
           #organization: 'Org-Name'
           Repository: Demo-Sample
           period: 24
